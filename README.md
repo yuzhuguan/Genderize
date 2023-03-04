@@ -1,5 +1,5 @@
 
-I've just made an application for fun using Genderize.io Api
+I've just made an application for fun using Genderize.io API
 
 
 # Preview
